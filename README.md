@@ -1,7 +1,6 @@
 # DataSurgery
 detection of thyroid disease using xray images
 
-#What is the Thyroid
 Although the thyroid is often known as a disease, it is actually an organ located in front of the trachea, under the area of 
 the throat known as the Adam's apple. The thyroid, which resembles the letter U or H and has a butterfly-like shape,
 is responsible for the production of hormones that regulate many functions in the body.
